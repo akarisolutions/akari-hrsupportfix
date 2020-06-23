@@ -3,7 +3,7 @@
   "manifestVersion": "1.5",
   "version": "1.0.0",
   "id": "f7a5bc14-7d70-48cd-a9a4-7e62e9811043",
-  "packageName": "com.microsoft.teams.hrsupport",
+  "packageName": "com.<<companyName>>.teams.hrsupport",
   "developer": {
     "name": "<<companyName>>",
     "websiteUrl": "<<websiteUrl>>",
